@@ -9,6 +9,7 @@ const int DELAYTIME = 1000;  // delayTime is 1000ms
 const int TIMEINCREMENT = 1000;  // how many ms are added delayTime every loop
 int blinkTime = 1000;  // blinkTime is 1000ms, changes every loop
 
+
 void setup() {                
   // Sets up the pins
   pinMode(LED_BUILTIN, OUTPUT);     
