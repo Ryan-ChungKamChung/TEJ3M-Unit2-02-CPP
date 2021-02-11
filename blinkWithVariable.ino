@@ -6,7 +6,7 @@
 
 // Global variables
 const int DELAYTIME = 1000;  // delayTime is 1000ms
-const int TIMEINCREMENT;  // how many ms are added delayTime every loop
+const int TIMEINCREMENT = 1000;  // how many ms are added delayTime every loop
 int blinkTime = 1000;  // blinkTime is 1000ms, changes every loop
 
 void setup() {                
