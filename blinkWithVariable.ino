@@ -23,5 +23,5 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);
   delay(DELAYTIME);
   
-  blinkTime += TIMEINCREMENT
+  blinkTime += TIMEINCREMENT;
 }
