@@ -2,7 +2,7 @@
 //
 // Created by Ryan Chung Kam Chung
 // Created in February 2021
-// This program makes the 13th pin (LED) blink with delay
+// This program makes the 13th pin (LED) blink with incremental delay
 
 // Global variables
 const int DELAYTIME = 1000;  // delayTime is 1000ms
